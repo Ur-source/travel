@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Bali",
+        "vibe": "Relaxation",
+        "activities": [
+            {
+                "name": "Beach",
+                "cost": 50
+            },
+            {
+                "name": "Yoga",
+                "cost": 30
+            },
+            {
+                "name": "Spas",
+                "cost": 100
+            }
+        ],
+        "best_season": "Summer"
+    },
+    {
+        "name": "Swiss Alps",
+        "vibe": "Adventure",
+        "activities": [
+            {
+                "name": "Skiing",
+                "cost": 150
+            },
+            {
+                "name": "Hiking",
+                "cost": 20
+            },
+            {
+                "name": "Mountaineering",
+                "cost": 200
+            }
+        ],
+        "best_season": "Winter"
+    },
+    {
+        "name": "New York",
+        "vibe": "Socializing",
+        "activities": [
+            {
+                "name": "Nightclubs",
+                "cost": 100
+            },
+            {
+                "name": "Parties",
+                "cost": 50
+            },
+            {
+                "name": "Broadway Shows",
+                "cost": 120
+            }
+        ],
+        "best_season": "All year"
+    }
+]
